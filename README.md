@@ -1,5 +1,5 @@
-# Projet-Java-The-Tiler-Team
-Projet Java : The-Tiler-Team - BPO Semestre 2 Période D - Utilisation Interface/classes/héritage
+# Projet-Java-Library
+Projet Java : Library - BPO Semestre 2 Période D - Utilisation Interface/classes/héritage
 
 Une société de production cinématographique souhaite révolutionner la diffusion
 des films qu’elle produit. Pour se faire ils ont décidé de réduire de façon considérable le
